@@ -1,0 +1,14 @@
+-Os
+-ffreestanding
+-fno-builtin
+-fno-common
+-fno-exceptions
+-fno-non-call-exceptions
+-fno-rtti
+-fno-use-cxa-atexit
+-g
+-pedantic
+-mmcu=avrxmega3
+-I/usr/avr/include
+-nostdlib
+-nolibc
